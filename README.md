@@ -5,7 +5,7 @@
 ---------------------------------------------------------
 
 ### Course Logo
-<img src="../images/edwith.logo.png"
+<img src="D://workspace-sts-3.8.2.RELEASE_STUDY/naver_boostcourse_web/src/main/webapp/WEB-INF/images/edwith.logo.png" with="300" height="auto">
 
 ### Course Info
 https://www.edwith.org/boostcourse-web
