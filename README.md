@@ -2,7 +2,6 @@
 
 [윤영 Yun Young](https://github.com/yunyoung1819)
 
----------------------------------------------------------
 
 ### Course Logo
 <img src="/src/main/webapp/WEB-INF/images/edwith.logo.png" with="auto" height="auto">
