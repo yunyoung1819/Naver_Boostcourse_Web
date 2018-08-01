@@ -2,13 +2,13 @@
 
 [윤영 Yun Young](https://github.com/yunyoung1819)
 
-=========================================
+---------------------------------------------------------
 
 ### Course Logo
-<img src="D:\workspace-sts-3.8.2.RELEASE_STUDY\naver_boostcourse_web\src\main\webapp\WEB-INF\images\edwith.logo.png"
+<img src="../images/edwith.logo.png"
 
 ### Course Info
-네이버 부스트코스 Web(https://www.edwith.org/boostcourse-web)
+https://www.edwith.org/boostcourse-web
 
 ### Curriculum
 ```
