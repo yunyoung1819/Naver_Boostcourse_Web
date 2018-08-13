@@ -69,7 +69,7 @@ https://www.edwith.org/boostcourse-web
   7) 아규먼트 리졸버 
   8) Summary
   
-  프로젝트 5. 약관리 시스템 : 예약하기
+  프로젝트 5. 예약관리 시스템 : 예약하기
   
  
 6. 웹 애플리케이션 개발 4/4
