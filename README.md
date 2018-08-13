@@ -1,6 +1,5 @@
 # Naver BoostCourse Full-Stack Web Developer
 
-[윤영 Yun Young](https://github.com/yunyoung1819)
 
 
 ### Course Logo
