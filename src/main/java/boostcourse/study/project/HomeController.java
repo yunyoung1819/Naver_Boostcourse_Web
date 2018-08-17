@@ -36,10 +36,28 @@ public class HomeController {
 		return "part01/test";
 	}
 	
-	@RequestMapping(value = "/sample", method = RequestMethod.GET)
-	public String test(Locale locale, Model model) {
-		logger.info("TEST");
+	@RequestMapping(value = "/semanticLayout", method = RequestMethod.GET)
+	public String layout() {
 		
-		return "part01/sample";
+		logger.info("Layout Test!");
+		
+		return "part01/semanticLayout";
 	}
+	
+	@RequestMapping(value = "/ex01", method = RequestMethod.GET)
+	public String exercise01() {
+		
+		logger.info("ex01!");
+		
+		return "part01/ex01";
+	}
+	
+	@RequestMapping(value = "/ex02", method = RequestMethod.GET)
+	public String exercise02() {
+		
+		logger.info("ex02!");
+		
+		return "part01/ex02";
+	}
+	
 }
