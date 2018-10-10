@@ -68,4 +68,12 @@ public class HomeController {
 		return "part01/ex03";
 	}
 	
+	@RequestMapping(value = "/ex04", method = RequestMethod.GET)
+	public String exercise04() {
+		
+		logger.info("ex04!");
+		
+		return "part01/ex04";
+	}
+	
 }
